@@ -1,0 +1,9 @@
+mvc-infra/
+│
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── vpc.tf
+├── ec2.tf
+├── rds.tf
+├── s3_frontend.tf
